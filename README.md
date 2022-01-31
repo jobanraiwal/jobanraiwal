@@ -1,4 +1,9 @@
 ### Hi there 👋
+🎓 I'm a second year Computer Science student at the University of Victoria
+📙 I have experience in Python, Java, JavaScript, HTML, and CSS
+🌱 I’m currently learning C, Bash, and Git 
+📫 Reach me at jobanraiwal@gmail.com
+😄 Pronouns: he/him
 
 <!--
 **jobanraiwal/jobanraiwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
